@@ -35,8 +35,8 @@ To explore the differences between the execution configurations of PCA-GPU-based
   Note: You can modify the code to experiment with different vector sizes, block dimensions, or kernel configurations to observe their impact on performance and correctness.
 
 ## Output:
-1-
-/nBlock size = 1023
+### 1-
+### Block size = 1023
 ![235474476-543c8153-67c7-4488-b117-efaaecf4a71e](https://github.com/ragav-47/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75235488/8d073fc9-1db9-4b60-9fda-f174091171ee)
 
 Block size = 1024
