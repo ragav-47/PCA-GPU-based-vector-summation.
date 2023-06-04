@@ -35,14 +35,14 @@ To explore the differences between the execution configurations of PCA-GPU-based
   Note: You can modify the code to experiment with different vector sizes, block dimensions, or kernel configurations to observe their impact on performance and correctness.
 
 ## Output:
-1-
+1-\n
 Block size = 1023
 ![235474476-543c8153-67c7-4488-b117-efaaecf4a71e](https://github.com/ragav-47/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75235488/8d073fc9-1db9-4b60-9fda-f174091171ee)
 
 Block size = 1024
 ![235474535-547c521d-50e1-4625-94d2-ce04598cc622](https://github.com/ragav-47/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75235488/e894c57c-c5f1-4852-b60c-5e1a891b0caf)
 
-2-
+2-\n
 Block size = 256. Two Threads.
 
 ![235474812-97ac4808-6fd8-4b47-a0b0-656e6d1c94f3](https://github.com/ragav-47/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75235488/87e7e457-35bc-412f-b419-c6707500c54d)
